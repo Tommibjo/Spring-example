@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="purchaseorder"
+		class="com.juurivuohi.spring.ordermanagement.PurchaseOrder">
+		
+		
+		
+		<constructor-arg index="0" value="132"></constructor-arg>
+		<constructor-arg index="1"
+			value="NETGEAR - 8-Port 10/100/1000 Mbps Gigabit Smart Managed Pro Switch">
+		</constructor-arg>
+		<constructor-arg index="2" value="233.9"></constructor-arg>
+	</bean>
+
+	<bean id="samlink"
+		class="com.juurivuohi.spring.ordermanagement.Customer">
+		
+		
+		
+		<property name="id" value="3"></property>
+		<property name="name" value="Oy Samlink Ab"></property>
+		<property name="address" value="Linnoitustie 9, 02600 Espoo"></property>
+		
+		<property name="terms" ref="terms"></property>
+	</bean>
+
+	<bean id="terms"
+		class="com.juurivuohi.spring.ordermanagement.Terms">
+	<constructor-arg index="0" value="45"></constructor-arg>
+	<constructor-arg index="1" value="DDU"></constructor-arg>
+	</bean>
+</beans>
