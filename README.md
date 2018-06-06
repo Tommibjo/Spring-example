@@ -1,5 +1,5 @@
 # Spring-example
-## My small spring project showcase.
+Small spring project showcase.
 
  * Created with Eclipse Java EE IDE Oxygen.3a
  * Simple Apache Maven (4.0.0)  Spring framework project.
