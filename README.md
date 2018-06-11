@@ -21,4 +21,3 @@ Small spring project showcase.
  
  * How to do simple dependency injection (injecting Terms dependency to Customer class)					
   -> dependent: Customer.java - dependency: terms.java
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/iChgf8/spring_uml.png" alt="spring_uml" border="0"></a>
