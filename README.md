@@ -1,15 +1,17 @@
-## Having 1st touch to Spring framework
-Small spring project showcase.
+##Having 1st touch to Spring framework
+Ex-employer had position open which required Spring framework knowledge.. "What's spring framework?" were the thoughts in my head.
+Also my first  touch to Maven (Great stuff).
 
  * Created with Eclipse Java EE IDE Oxygen.3a
- * Simple Apache Maven (4.0.0)  Spring framework project.
- * With following dependencies:
- * Spring-core 5.0.6
- * Spring-beans 5.0.6
- * Spring-context 5.0.6
+ * Apache Maven (4.0.0)  
+ * Spring framework
+ 
+ ##Usage
+ 
+ There is no usage. Though this project was usefull for me:
+ I am learning ABC:s of Spring framework.
  
  Displaying the usage of:
- 
  * ApplicationContext (Beanfactory container)
   -> TextInterface.java
  * How to set properties of bean in Spring Bean Configuration XML file via <property>
