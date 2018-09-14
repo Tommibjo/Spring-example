@@ -1,4 +1,4 @@
-##Having 1st touch to Spring framework
+## Having 1st touch to Spring framework
 Ex-employer had position open which required Spring framework knowledge.. "What's spring framework?" were the thoughts in my head.
 Also my first  touch to Maven (Great stuff).
 
@@ -6,7 +6,7 @@ Also my first  touch to Maven (Great stuff).
  * Apache Maven (4.0.0)  
  * Spring framework
  
- ##Usage
+ ## Usage
  
  There is no usage. Though this project was usefull for me:
  I am learning ABC:s of Spring framework.
