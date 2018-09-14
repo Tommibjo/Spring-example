@@ -1,4 +1,4 @@
-# Spring-example
+## Having 1st touch with Spring framework
 Small spring project showcase.
 
  * Created with Eclipse Java EE IDE Oxygen.3a
