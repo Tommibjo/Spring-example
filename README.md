@@ -9,14 +9,4 @@ Also my first  touch to Maven (Great stuff).
  ## Usage
  
  There is no usage. Though this project was usefull for me:
- I am learning ABC:s of Spring framework.
- 
- Displaying the usage of:
- * ApplicationContext (Beanfactory container)
-  -> TextInterface.java
- * How to set properties of bean in Spring Bean Configuration XML file via <property>
-  -> Customer.java
- * How to set bean constructor arguments in Spring Bean Configuration XML file via <constructor-arg>		
-  -> PurchaseOrder.java
- * How to do simple dependency injection (injecting Terms dependency to Customer class)					
-  -> dependent: Customer.java - dependency: terms.java
+ I am learning ABC:s of Spring framework (i.e. About beanfactory, XML conf, injections)
