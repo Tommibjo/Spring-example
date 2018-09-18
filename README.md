@@ -1,4 +1,4 @@
-## Having 1st touch to Spring framework
+## 1st touch to Spring framework
 Ex-employer had position open which required Spring framework knowledge.. "What's spring framework?" were the thoughts in my head.
 Also my first  touch to Maven (Great stuff).
 
