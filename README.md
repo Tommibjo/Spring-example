@@ -8,5 +8,5 @@ Also my first  touch to Maven (Great stuff).
  
  ## Usage
  
- There is no usage. Though this project was usefull for me:
+ There is no real usage. Though this project was usefull for me:
  I am learning ABC:s of Spring framework (i.e. About beanfactory, XML conf, injections)
